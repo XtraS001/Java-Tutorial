@@ -18,6 +18,5 @@ public class J15_If_Statements {
 			System.out.println("You are not male and not tall");
 		}
 		
-		
 	}
 }

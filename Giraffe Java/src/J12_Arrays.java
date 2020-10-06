@@ -16,7 +16,6 @@ public class J12_Arrays {
 		names[2] = "Mike" ;
 		System.out.println( names[1] ) ;
 		
-
 	}
 }
 	

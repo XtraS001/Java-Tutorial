@@ -54,9 +54,5 @@ public class J20_Building_Guessing_Game {
 		} else {
 			System.out.println("You win") ;
 		}
-	
-		
-		
-		
 	}
 } 

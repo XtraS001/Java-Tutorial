@@ -28,3 +28,16 @@ public class J29_Build_Multichoice_Ques {
 		System.out.println("You got" + score + "/" + questions.length ) ; 
 	}
 }
+
+/*Open in another class file
+public class Question {
+	String prompt ;
+	String answer ;
+	
+	public Question (String prompt, String answer ) {
+		this.prompt = prompt ;
+		this.answer = answer ;
+	}
+}
+*/
+ */

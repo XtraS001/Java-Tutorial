@@ -12,8 +12,6 @@ public class J9_User_Input {
 		int age = keyboardInput.nextInt();
 		System.out.println("Hey " + name + ", you are " + age + " years old.");
 		
-		
-		
 	}
 	
 }

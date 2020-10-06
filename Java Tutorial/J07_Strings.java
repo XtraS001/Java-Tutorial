@@ -20,14 +20,23 @@ public class J7_Strings {
 		System.out.println(phrase.substring(8, 11));
 		System.out.println(phrase.substring(0, phrase.indexOf(" "))); 
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 }
+/*
+Output:
+Hellow 
+ World
+Good Morning
+GOOD MORNING
+good morning
+true
+false
+true
+12
+o
+1
+6
+1
+nin
+Good
+*/
