@@ -12,16 +12,16 @@ public class J34_Inheritance {
 
 /*
 class Chef{
-public void makeChicken(){
-     System.out.println("The chef makes chicken");
-}
+	public void makeChicken(){
+	     System.out.println("The chef makes chicken");
+	}
 
-public void makeSalad(){
-     System.out.println("The chef makes salad");
-}
+	public void makeSalad(){
+	     System.out.println("The chef makes salad");
+	}
 
-public void makeSpecialDish(){
-     System.out.println("The chef makes a special dish");
-}
+	public void makeSpecialDish(){
+	     System.out.println("The chef makes a special dish");
+	}
 }
 */
